@@ -1,0 +1,2 @@
+# OmotenashiCoin-YoctoProject
+OmotenashiCoin-YoctoProject
